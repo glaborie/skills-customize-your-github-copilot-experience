@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "FastAPI REST APIs",
+      "description": "Building a REST API with FastAPI: routing, validation, and JSON responses.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-02-13"
     }
   ]
 }
